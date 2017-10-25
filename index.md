@@ -2,4 +2,4 @@
 
 [Link to Readme](README.md)
 
-[Link to FolderedFile](dosc/folderedFile.md)
+[Link to FolderedFile](docs/folderedFile.md)

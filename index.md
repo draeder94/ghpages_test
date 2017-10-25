@@ -3,3 +3,5 @@
 [Link to Readme](README.md)
 
 [Link to FolderedFile](docs/folderedFile.md)
+
+[Link to MeaningOfLife](../shift/docs/folderedFile.md)
